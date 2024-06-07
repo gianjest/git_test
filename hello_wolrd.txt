@@ -1,1 +1,2 @@
-Hello odin! I'm using nano command to modify this text for the second time, later i will send it again to the GitHub! 
+Hello odin! I'm using nano command to modify this text for the second time, seems not that easy.
+che devo fa?
